@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Kam1ni/restify-express-mongoose/issues"
   },
-  "homepage": "https://github.com/Kam1ni/restify-express-mongoose#readme"
+  "homepage": "https://github.com/Kam1ni/restify-express-mongoose#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  }
 }
